@@ -21,5 +21,5 @@ University of Ottawa, Canada
 
 ## Contact
 
-* Email: [smome025@uottawa.ca](mailto:smome025@uottawa.ca)
+* Email: [momeni.salar@gmail.com](mailto:momeni.salar@gmail.com)
 * GitHub: [github.com/sr-momeni](https://github.com/sr-momeni)
