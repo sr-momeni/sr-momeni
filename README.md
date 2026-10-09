@@ -14,12 +14,12 @@ I build practical projects that combine data, software engineering, and AI—fro
 * **Current Interests:** Multi-agent systems, reinforcement learning, sustainable computing
 
 
-## Education
+## Education:
 
 **Master of Engineering in Electrical and Computer Engineering**
 University of Ottawa, Canada
 
-## Contact
+## Contact:
 
 * Email: [momeni.salar@gmail.com](mailto:momeni.salar@gmail.com)
 * GitHub: [github.com/sr-momeni](https://github.com/sr-momeni)
